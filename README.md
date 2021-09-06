@@ -1,4 +1,4 @@
-### Hi there 🚀🚀🚀
+![Photo](https://github.com/stuartleach/stuartleach/blob/main/Screen%20Shot%202021-09-06%20at%2011.46.19%20AM.png)
 
 I'm currently sharpening my skills as a Full Stack React developer and looking to collaborate!
 
