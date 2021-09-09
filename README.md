@@ -2,7 +2,9 @@
 
 I'm currently sharpening my skills as a Full Stack React developer and looking to collaborate!
 
-My alter-ego is a trip-pop artist called [Leach](https://loveleach.com/), whose website I built in React using Chakra and functional components. Right now I'm working on a full-stack [Morning Page](words.stuartlea.ch) app that allows users to create and save journal entries in the style of Julia Cameron's "Morning Pages," a method of daily free-writing.
+My alter-ego is a trip-pop artist called [Leach](https://loveleach.com/), whose website I built in React using Chakra and functional components. 
+
+Right now I'm creating new features for my full-stack [Morning Page](words.stuartlea.ch) app that allows users to create and save journal entries in the style of Julia Cameron's "Morning Pages," a method of daily free-writing.
 
 <!--
 **stuartleach/stuartleach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
