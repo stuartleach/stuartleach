@@ -1,4 +1,4 @@
-![Photo](https://github.com/stuartleach/stuartleach/blob/main/Screen%20Shot%202021-09-06%20at%2011.46.19%20AM.png)
+<!--- [Photo](https://github.com/stuartleach/stuartleach/blob/main/Screen%20Shot%202021-09-06%20at%2011.46.19%20AM.png) -->
 
 <!--
 **stuartleach/stuartleach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
